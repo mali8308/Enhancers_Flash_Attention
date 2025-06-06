@@ -1,8 +1,5 @@
 # Homework 3: Sequence Modeling for Enhancer Classification
 
-**Course:** Deep Learning in Medicine – Spring 2025  
-**Author:** Muhammad Ali
-
 ## Overview
 
 This repository contains the implementation and results for **Homework 3**, focusing on **sequence modeling in biology** using deep learning. The central goal is to classify genomic **enhancer sequences** using modern deep learning architectures in PyTorch.
