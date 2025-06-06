@@ -1,4 +1,4 @@
-# Homework 3: Sequence Modeling for Enhancer Classification
+# Sequence Modeling for Enhancer Classification
 
 ## Overview
 
